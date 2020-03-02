@@ -1,2 +1,4 @@
 Je fais le premier commit - Christian
-J'essaie de créer un conflit - Christian
+Je fais le second commit - Hakim
+J'essaie de créer un conflit (reussi) - Christian
+
